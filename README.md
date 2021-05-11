@@ -1,1 +1,2 @@
-# The-Geologist
+# Geologist
+Geologist Project
